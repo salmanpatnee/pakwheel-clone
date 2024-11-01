@@ -11,6 +11,8 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        vivid_red: "#b73439",
+        charcoal: "#302f2e",
       },
     },
   },
