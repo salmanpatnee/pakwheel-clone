@@ -8,7 +8,7 @@ const Footer = () => {
         <a
           href="https://www.linkedin.com/in/salman-a-ghani/"
           target="_blank"
-          className="hover:text-vivid_red"
+          className="hover:text-vivid_red ms-2"
         >
           Salman Patnee
         </a>

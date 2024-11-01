@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <main>
+    <main className="mt-20">
       <h2 className="font-bold text-2xl text-center w-full text-gray-600 mb-6">
         Sell Your Car on PakWheels and Get the Best Price
       </h2>
