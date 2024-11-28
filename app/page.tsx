@@ -1,5 +1,3 @@
-import Image from "next/image";
-import Link from "next/link";
 import Car from "./components/Car";
 
 export default function Home() {
